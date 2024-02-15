@@ -1,6 +1,6 @@
 {
     "name": "hanoivip/curl-helper",
-    "description": "PHP Curl Helper",
+    "description": "PHP Curl Helper 2.2",
     "license": "MIT",
     "authors": [
         {
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Mervick\\": ""
+            "Hanoivip\\": ""
         }
     }
 }

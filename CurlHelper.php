@@ -6,7 +6,7 @@
  * @license MIT
  */
 
-namespace Mervick;
+namespace Hanoivip;
 
 /**
  * Class CurlHelper
